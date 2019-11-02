@@ -1,3 +1,19 @@
+String
+
+size
+substr
+constructor for string// string s("123")
+find
+insert
+erase
+stringstream
+getline
+append
+string::npos //size_t
+copy //str.copy(buffer,n,0);
+        //buffer[n] = '\0';
+printf
+
 1. STL: algorithm, containers, iterators, functions 
 2. Vector (vector declaration) vector<int> a; vector<int> b(50, 1);
 3. size, push_back, pop_back
