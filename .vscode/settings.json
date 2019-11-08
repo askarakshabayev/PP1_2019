@@ -29,6 +29,12 @@
         "vector": "cpp",
         "stack": "cpp",
         "iterator": "cpp",
-        "istream": "cpp"
+        "istream": "cpp",
+        "deque": "cpp",
+        "functional": "cpp",
+        "map": "cpp",
+        "*.tcc": "cpp",
+        "__hash_table": "cpp",
+        "__tree": "cpp"
     }
 }
